@@ -1,4 +1,4 @@
-# https://okste1234.github.io/fitness-gym-app/
+# https://okste1234.github.io/fitness-gym-app
 
 
 ## link available above
