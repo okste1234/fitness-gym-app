@@ -1,6 +1,5 @@
 {
-  "homepage": "https://okste1234.github.io/fitness-gym-app",
-  "name": "fitness_gym_app",
+  "name": "fitness-gym-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
