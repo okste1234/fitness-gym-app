@@ -1,4 +1,4 @@
-# https://okste1234.github.io/fitness-gym-app
+# https://adekunlestephen-fitness-gym-app.vercel.app
 
 
 ## link available above
